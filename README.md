@@ -17,14 +17,17 @@ This project is a drum set that allows you to play drum sounds by either pressin
 1. Clone or download the project repository.
 2. Open the `index.html` file in your web browser.
 3. Press the keys shown on the drum elements or click/touch the drums to play the corresponding drum sounds.
+  - You can press the keys (mentioned on the images) on your keyboard ⌨
+  - Either by mouse pressing on the instruments' images you can play the sound 🖱
+4. You can click the drum-set website link 👉🏻 https://fixmanish.github.io/drum-set/ to get the exprience too.
 
 Enjoy playing the drum set and have fun! 🎉
 
 ## Technologies Used 💻
 
-- HTML
-- CSS
-- JavaScript
+- HTML 🧱
+- CSS 🎨
+- JavaScript 🌠
 
 ## Acknowledgements 🙏
 
